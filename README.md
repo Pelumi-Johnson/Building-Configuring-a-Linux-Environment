@@ -5,7 +5,7 @@
 **Submission Date:** 11/11/2025  
 
 📄 **Full Lab Report:**  
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Configuring-Securing-a-Linux-Server-Ubuntu-/blob/main/Project%202%20Submission%20Template%20(2).pdf)
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Building-Configuring-a-Linux-Environment/blob/main/Project%201%20(3).docx.pdf)
 
 ---
 
