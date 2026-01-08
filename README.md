@@ -12,7 +12,7 @@
 ## 🌿 Overview
 This project documents my first complete Linux environment build using **Ubuntu 24.04.3 LTS** inside **Oracle VirtualBox**. I installed the OS, verified network connectivity, explored the Linux file system, practiced file/directory management, created hard & symbolic links, managed users/groups, adjusted permissions, and installed/uninstalled packages using `apt`.
 
-Linux feels like learning a workshop—every command is a tool, every directory is a room, and wisdom comes by doing.
+Linux feels like learning a workshop every command is a tool, every directory is a room, and wisdom comes by doing.
 
 ---
 
